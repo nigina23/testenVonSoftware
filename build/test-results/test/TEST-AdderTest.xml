@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AdderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-22T09:11:34" hostname="MacBook-Air-von-Niginabonu.local" time="0.022">
+  <properties/>
+  <testcase name="givenAdder_whenCalledWith100and200_thenExpecting300()" classname="AdderTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
